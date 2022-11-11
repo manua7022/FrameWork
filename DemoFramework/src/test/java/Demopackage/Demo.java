@@ -9,10 +9,10 @@ public class Demo
 			int[]arr= {2,1,4,3,2};
 			int[] brr= {4,6,2,7,2};
 			int length=arr.length;
-			/*if(arr.length<brr.length)
+			if(arr.length<brr.length)
 			{
 				length=brr.length;
-			}*/
+			}
 			for(int i=0; i<length; i++)
 			{
 				
